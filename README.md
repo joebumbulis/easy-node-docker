@@ -8,6 +8,8 @@
 ![STO](static/img/icon_sto.svg)
 ![CE](static/img/icon_ce.svg)
 
+Add Test
+
 # Easy Node Docker
 This example is based of of the NodeJS's Project Example -> https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
